@@ -9,10 +9,11 @@ None!
    
 ## Sofware
 https://www.online-ide.com/online_python_ide
+
 https://codehs.com/ide
 
    
-## Small Outline/Structure
+##Outline
 What is a computer and a program?
 Coding Fundamentals
 
