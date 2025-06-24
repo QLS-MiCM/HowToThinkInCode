@@ -13,7 +13,7 @@ https://www.online-ide.com/online_python_ide
 https://codehs.com/ide
 
    
-##Outline
+## Outline
 What is a computer and a program?
 Coding Fundamentals
 
