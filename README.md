@@ -15,6 +15,7 @@ https://codehs.com/ide
    
 ## Outline
 What is a computer and a program?
+
 Coding Fundamentals
 
 ## References
